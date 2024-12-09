@@ -1,7 +1,7 @@
 import os
 import pyaes
 
-file_name = "teste_decrypter.txt.ransomware"
+file_name = "teste_encrypter.txt.ransomware"
 file = open(file_name, "rb")
 file_data = file.read()
 file.close()
