@@ -2,7 +2,7 @@
 <h1>Repositório para estudos de Ransomware utilizando Python </h1>
 
 <h2>Ferramentas Utilizadas:</h2>
-<p>KPython
+<p>Python
 
 <h2>Explicação</h2>
 <h3>encrypter.py</h3>
